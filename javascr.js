@@ -14,7 +14,7 @@ $(document).ready(function() {
   }
   
   if ( detectmobile() && document.documentElement.clientWidth <= 768 ){
-      window.location.href = 'http://yourwebsite.com/pageformobiles';
+      window.location.href = '404';
   }
 
   // const mytimeout = setInterval(removetheselected, 4000);
